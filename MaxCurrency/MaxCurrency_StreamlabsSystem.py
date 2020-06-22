@@ -19,7 +19,7 @@ from Settings_Module import MySettings
 #   [Required] Script Information
 #---------------------------
 ScriptName = "MaxCurrency"
-Website = "https://github.com/l0b5ter/"
+Website = "https://github.com/l0b5ter/MaxCurrency_StreamlabsCommand"
 Description = "Add a maximum of bot currency"
 Creator = "lobster/loster31345"
 Version = "1.0.0.0"
