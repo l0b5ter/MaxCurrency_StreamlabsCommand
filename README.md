@@ -1,6 +1,5 @@
 # MaxCurrency_StreamlabsCommand
-Allow chat to control your keyboard, with maybe a sound! Commands cost currency..                   
-ChatIsSuperior_StreamlabsCommand is a twitch script for the streamlabs chatbot that brings the streamer and the viewer closer^^
+Set a max currency so noone in chat will have over that.
 
 Script-version: 1.0.0.0                   
 Last-modified: 22.06.2020                     
